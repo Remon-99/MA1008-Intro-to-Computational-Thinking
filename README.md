@@ -7,7 +7,7 @@ For my project, I developed a dynamic leaderboard application tailored specifica
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>python</b> 
+- <b>Python</b> 
 - <b>Tkinter</b>
 
 <h2>Environments Used </h2>
